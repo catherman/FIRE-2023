@@ -18,7 +18,7 @@ Deliverables: An interactive [Tableau Dashboard](https://public.tableau.com/app/
 ### How to reproduce the Streamlit App  
 <img align="right" src="https://github.com/catherman/FIRE-II/assets/43255276/37eeb3a9-9a6a-46ff-ae38-106c8f83eb7e" alt="Screen Shot 2024-05-05 at 1 57 02 PM">
 The Streamlit library allows for app creation using only Python. While there are limitations to the format, it is useful to quickly generate apps for internal review. For more info, see 
-[Streamlit documentation](https://docs.streamlit.io/get-started).
+[Streamlit documentation](https://docs.streamlit.io/get-started) 
 
 1. Move the required code & csvs to your OS, either:
    
