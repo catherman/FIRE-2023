@@ -18,24 +18,20 @@ Deliverables: An interactive Tableau dashboard, Streamlit app, and Summary Repor
 [Tableau Dashboard](https://public.tableau.com/app/profile/margaret.catherman/viz/FIREIIMultifamilyFireRiskAnalytics/SummaryPublic2)
 
 
-<img align="left" src="https://github.com/catherman/FIRE-II/assets/43255276/37eeb3a9-9a6a-46ff-ae38-106c8f83eb7e" alt="Screen Shot 2024-05-05 at 1 57 02 PM">
-
-
 ### How to reproduce the Streamlit App  
 The Streamlit library allows for app creation using only Python. While there are limitations to the format, it is useful to quickly generate apps for internal review. For more info, see [Streamlit documentation](https://docs.streamlit.io/get-started).
 
-<img src="![Screen Shot 2024-05-05 at 1 57 02 PM](https://github.com/catherman/FIRE-II/assets/43255276/37eeb3a9-9a6a-46ff-ae38-106c8f83eb7e
-)” align="right" width="200px"/> 
+<img align="right" src="https://github.com/catherman/FIRE-II/assets/43255276/37eeb3a9-9a6a-46ff-ae38-106c8f83eb7e" alt="Screen Shot 2024-05-05 at 1 57 02 PM">
 
 1. Move the required code & csvs to your OS, either:
    
-  a. Clone this repository to GitHub or VSCode;  OR
+     a. Clone this repository to GitHub or VSCode;  OR
   
-  b. Copy/download to your OS & Python interpreter only files needed for the multifamily or single family app, noted below:
+     b. Copy/download to your OS & Python interpreter only files needed for the multifamily or single family app, noted below:
   
-    -Data required:  “data/processed/pred_mf_stion.csv” &/or “data/processed/pred_sf_stion.csv”
+       -Data required:  “data/processed/pred_mf_stion.csv” &/or “data/processed/pred_sf_stion.csv”
     
-    -Code required: “src/apps/Fire_Risk_Map_MF.py” &/or “src/apps/Fire_Risk_Map_MF.py”
+       -Code required: “src/apps/Fire_Risk_Map_MF.py” &/or “src/apps/Fire_Risk_Map_MF.py”
     
 3. Install required libraries, if not already installed: '!pip install streamlit'
 4. Run either the MF or SF code. The app will appear in a few minutes on a new browser.
