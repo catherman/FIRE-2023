@@ -33,8 +33,13 @@ The Streamlit library allows for app creation using only Python. While there are
 4. Run either the MF or SF code. The app will appear in a few minutes on a new browser.
 
 <br clear="right"/> 
+
 For more info, see 
-[Streamlit documentation](https://docs.streamlit.io/get-started) 
+[Streamlit documentation](https://docs.streamlit.io/get-started)
+
+
+[Streamlit documentation](
+https://docs.streamlit.io/get-started) 
 
 ### Contents of Repository
 Note: 
