@@ -37,10 +37,6 @@ The Streamlit library allows for app creation using only Python. While there are
 For more info, see 
 [Streamlit documentation](https://docs.streamlit.io/get-started)
 
-
-[Streamlit documentation](
-https://docs.streamlit.io/get-started) 
-
 ### Contents of Repository
 Note: 
 Complete raw data not provided, as this is an internal project for DCFR.  Rather, this repository is meant to provide a reference for other similar projects.
