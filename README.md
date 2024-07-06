@@ -13,15 +13,12 @@ Data:  Conducted statistical & spatial analytics using large microdata sets such
 
 Model selection, fitting and parameter tuning of Random Forest and AdaBoost to optimize probability metrics (Brier loss and Log loss). Random Forest Classification Model accuracy: 83%.
 
-Deliverables: An interactive Tableau dashboard, Streamlit app, and Summary Report (see this FIRE-2024/reports), ranking 1046 multifamily properties in DeKalb County, identifying property risk levels, address, geo coordinates, fire district and station, to be used by DCFR in their Community Risk Assessment (CRA). Presented strategy and findings to industry professionals.
-
-[Tableau Dashboard](https://public.tableau.com/app/profile/margaret.catherman/viz/FIREIIMultifamilyFireRiskAnalytics/SummaryPublic2)
-
+Deliverables: An interactive [Tableau Dashboard
+(https://public.tableau.com/app/profile/margaret.catherman/viz/FIREIIMultifamilyFireRiskAnalytics/SummaryPublic2), Streamlit app, and [Summary Report](https://github.com/catherman/FIRE-2024/blob/main/reports/FIRE%20II%20Summary.pdf), ranking 1046 multifamily properties in DeKalb County, identifying property risk levels, address, geo coordinates, fire district and station, to be used by DCFR in their Community Risk Assessment (CRA). Presented strategy and findings to industry professionals.
 
 ### How to reproduce the Streamlit App  
-The Streamlit library allows for app creation using only Python. While there are limitations to the format, it is useful to quickly generate apps for internal review. For more info, see [Streamlit documentation](https://docs.streamlit.io/get-started).
-
 <img align="right" src="https://github.com/catherman/FIRE-II/assets/43255276/37eeb3a9-9a6a-46ff-ae38-106c8f83eb7e" alt="Screen Shot 2024-05-05 at 1 57 02 PM">
+The Streamlit library allows for app creation using only Python. While there are limitations to the format, it is useful to quickly generate apps for internal review. For more info, see [Streamlit documentation](https://docs.streamlit.io/get-started).
 
 1. Move the required code & csvs to your OS, either:
    
@@ -33,7 +30,7 @@ The Streamlit library allows for app creation using only Python. While there are
     
        -Code required: “src/apps/Fire_Risk_Map_MF.py” &/or “src/apps/Fire_Risk_Map_MF.py”
     
-3. Install required libraries, if not already installed: '!pip install streamlit'
+3. Install required libraries, if not already installed: "!pip install streamlit"
 4. Run either the MF or SF code. The app will appear in a few minutes on a new browser.
 
 <br clear="right"/> 
