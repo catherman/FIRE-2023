@@ -1,5 +1,5 @@
 
-# FIRE 2024
+# FIRE 2023
 
 An urban fire risk prediction model using machine learning. A joint project with ATLytiCS and DeKalb County Fire and Rescue (DCFR).  (2022-2023)
 
